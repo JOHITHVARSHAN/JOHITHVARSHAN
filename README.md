@@ -43,14 +43,14 @@
 ---
 
 ## 📊 GitHub Stats
-![JOHITHVARSHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOHITHVARSHAN&theme=dark&show_icons=true&&hide=issues,contribs)
+![JOHITHVARSHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOHITHVARSHAN&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHITHVARSHAN&layout=compact&theme=unicorn)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHITHVARSHAN&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 GitHub Activity
-[![JOHITHVARSHAN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JOHITHVARSHAN&bg_color=f5f6fa&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/JOHITHVARSHAN/github-readme-activity-graph)
+[![JOHITHVARSHAN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
