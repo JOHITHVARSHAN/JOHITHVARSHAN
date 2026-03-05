@@ -25,7 +25,15 @@
   
 - **Other:**
 
-<br><img height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=u6yosU9wHn5s&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=h5aGExIW8Uft&format=png&color=000000" /> <br/>
+<br>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
+<img height="50" width="50" src="https://www.svgrepo.com/show/503359/github.svg" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=u6yosU9wHn5s&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=h5aGExIW8Uft&format=png&color=000000" />
+
+<br/>
 
 
 ---
