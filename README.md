@@ -15,18 +15,14 @@
 
 ## 🔧 Technologies & Tools
 - **Languages:**
-
 <br><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <br/>
 
 - **Libraries:**
-
 <br><img height="50" width="50" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" /> <img height="50" width="50" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-without-subtitle.svg" /> <br/>
 
   
 - **Other:**
-
-<br><img height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" /> <img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=u6yosU9wHn5s&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=h5aGExIW8Uft&format=png&color=000000" />
-<br/>
+<br><img height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" /> <img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=u6yosU9wHn5s&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=h5aGExIW8Uft&format=png&color=000000" /><br/>
 
 
 ---
